@@ -1,0 +1,7 @@
+server_id  video_name  src	space	pi_id	video_id
+[1, './new_wo.avi', './', 1816254, '1', '1']
+[1, './new_wo.avi', './', 1271400, '1', '1']
+[2, './new_wo.avi', './', 1368452, '1', '1']
+[3, './new_name_test.avi', './', 18098808, '1', '1']
+[1, './new_wo.avi', './', 1368452, '1', '1']
+[1, './new_name.avi', './', 3719834, '1', '1']
